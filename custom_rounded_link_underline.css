@@ -1,0 +1,8 @@
+.current_page_item  a:after {
+  margin-top:4px;
+  content: '';
+  height: 3px;
+  background: white;
+  border-radius: 5px;
+  display: block;
+}
